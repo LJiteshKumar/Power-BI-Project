@@ -17,8 +17,6 @@ A 3-month dataset containing employee attendance, leave records, and work status
 - **Leave Data**: Annual leave, sick leave, and other leave types  
 - **Employee ID and Role**: Identifiers for each employee
 
-> 📌 Note: The dataset is simulated for demonstration purposes and doesn't represent actual employee data.
-
 ---
 
 ## 📊 Key Features & Insights
