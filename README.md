@@ -39,7 +39,7 @@ A 3-month dataset containing employee attendance, leave records, and work status
 
 ## 📁 Files Included
 - `HR_Presence_Leave_Dashboard.pbix` – Power BI dashboard file  
-- `dashboard-image` – Screenshots of dashboard visuals for preview
+- `dashboard-image` – (https://github.com/LJiteshKumar/Power-BI-Project/blob/main/Dashboard%20Screenshot.png)
 
 ---
 
